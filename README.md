@@ -31,7 +31,7 @@ Just a student major in physics now.
 
 - A student from Jinlin University
 
-- Be fond of Physics
+- **Be fond of Physics**
 
 - Dream of becoming a physicist
 
@@ -44,17 +44,11 @@ Just a student major in physics now.
 
 
 
-**Bold** and _Italic_ and `Code` text
+**A** and _B_ and `C` 
 
-[Link](url) and ![Image](src)
-```
+[a website](http://www.baidu.com) and ![Image](https://icweiliimg1.pstatp.com/weili/bl/238643003111243884.jpg)
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/liaoyp0615/liaoyp0615.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
