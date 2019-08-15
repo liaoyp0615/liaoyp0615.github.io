@@ -1,6 +1,6 @@
 ## Welcome to Liaoyipu's GitHub Pages
 
-[Introduction](intro.md)        [Physics](phy.md)        [about](about.md)
+[Introduction](intro.md) &nbsp; [Physics](phy.md) &nbsp; [about](about.md)
 
 
 
