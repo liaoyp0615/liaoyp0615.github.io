@@ -31,7 +31,7 @@ Just a student major in physics now.
 
 # About me
 
-- A student from Jinlin University
+- A student from Jilin University
 
 - **Be fond of Physics**
 
