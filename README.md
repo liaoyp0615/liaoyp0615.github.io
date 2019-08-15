@@ -1,5 +1,7 @@
 ## Welcome to Liaoyipu's GitHub Pages
 
+[Introduction](intro.md)
+
 
 
 # Introduction
