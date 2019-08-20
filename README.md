@@ -4,7 +4,7 @@
 
 
 
-[**Research**](research.md)								[**Group members**](members.md)								[**PDF**](pdf.md)								[**Contact information**](information.md)
+[**Research**](research.md)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[**Group members**](members.md)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[**PDF**](pdf.md)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[**Contact information**](information.md)
 
 
 
