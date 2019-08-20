@@ -1,58 +1,18 @@
-## Welcome to Liaoyipu's GitHub Pages
+# Experimental Partical Physics Group at JLU
 
-[Introduction](intro.md) &nbsp;  &nbsp;  &nbsp; [Physics](phy.md)  &nbsp;  &nbsp; &nbsp; [about](about.md)
-
-
-
-# Introduction
-  This is Liao's website.
-  
-  Sometimes I will put some information on this page so that I can reserve some files.
-  
-  of course,I just use this website to practice.
-  
-  
-  
-  
-  
-  
-
-
-# Physics
-
-Just a student major in physics now.
+------
 
 
 
+[**Research**](research.md)								[**Group members**](members.md)								[**PDF**](pdf.md)								[**Contact information**](information.md)
 
 
 
-
-
-# About me
-
-- A student from Jilin University
-
-- **Be fond of Physics**
-
-- Dream of becoming a physicist
+------
 
 
 
+### Introduction
 
+You can use the [editor on GitHub](https://github.com/weiminsong/SONGGROUP.github.io/edit/master/README.md)
 
-
-
-
-
-
-**A** and _B_ and `C` 
-
- ![Image](https://icweiliimg1.pstatp.com/weili/bl/238643003111243884.jpg)
- this picture is from [百度图库](https://image.baidu.com/)
-
-
-
-
-### Email
-- 954438183@qq.com
