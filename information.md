@@ -6,13 +6,9 @@
 
 
 
-**Office**: 314 Physics Building, Jilin University, Changchun
+**Address**: TAQ Honor Program, Department of Physics, Jilin University, Changchun
 
 
 
-**Email**: weimin.song@stfc.ac.uk
-
-
-
-**Phone**: 15201291914
+**Email**: liaoypkirk@163.com
 
