@@ -14,12 +14,14 @@
 
 # Introduction
 ### Who am I
+廖一朴(LIAO Yipu)
 Junior of TAO Honor Program, Department of Physics, Jilin University.
 
 [**My CV**](CV_of_YipuLIAO.pdf)
 
 ### Interests
 Particle Physics Experiment
+Machine Learning(Deep Learning)
 
 ### Hobbies
 Basketball, Table Tennis, Film, Photograph and Traveling...
