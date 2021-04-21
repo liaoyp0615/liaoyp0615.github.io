@@ -1,4 +1,4 @@
-# Experimental Partical Physics Group at JLU
+# 廖一朴(LIAO Yipu)
 
 ------
 
@@ -14,8 +14,6 @@
 
 # Introduction
 ### Who am I
-廖一朴(LIAO Yipu)
-
 Junior of TAO Honor Program, Department of Physics, Jilin University.
 
 [**My CV**](CV_of_YipuLIAO.pdf)
