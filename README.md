@@ -26,7 +26,7 @@ Particle Physics Experiment
 Machine Learning(Deep Learning)
 
 ### Hobbies
-Basketball, Table Tennis, Film, Photograph and Traveling...
+Basketball, Table Tennis, Cinephilia, Photography and Traveler...
 
 
 ------
