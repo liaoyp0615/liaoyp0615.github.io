@@ -14,7 +14,7 @@
 
 # Introduction
 ### Who am I
-Junior of TAO Honor Program, Department of Physics, Jilin University.
+Junior of TAQ Honor Program, Department of Physics, Jilin University.
 
 [**My CV**](CV_of_YipuLIAO.pdf)
 
