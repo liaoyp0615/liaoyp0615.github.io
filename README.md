@@ -16,7 +16,7 @@
 ### Who am I
 Junior of TAQ Honor Program, Department of Physics, Jilin University.
 
-[**My CV**](CV_of_YipuLIAO.pdf)
+[**CV(English)**](CV_of_YipuLIAO.pdf)  &emsp;  [**CV(Chinese)**](CV_Chinese.pdf)
 
 ### Interests
 Particle Physics Experiment
