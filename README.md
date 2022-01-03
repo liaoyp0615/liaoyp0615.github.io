@@ -16,7 +16,7 @@
 ### Who am I
 Junior of TAQ Honor Program, Department of Physics, Jilin University.
 
-[**CV(English)**](CV_of_YipuLIAO.pdf)  &emsp;  [**CV(Chinese)**](CV_Chinese.pdf)
+[**CV(English)**](files/CV_of_YipuLIAO.pdf)  &emsp;  [**CV(Chinese)**](files/CV_Chinese.pdf)
 
 ### Interests
 Particle Physics Experiment
@@ -24,7 +24,7 @@ Particle Physics Experiment
 Machine Learning(Deep Learning)
 
 ### Hobbies
-Basketball, Table Tennis, Cinephilia, Photography and Traveler...
+Basketball, Table Tennis, Cinephilia, [**Photography**](files/Notes_for_photographer.pdf) and Traveler...
 
 
 ------
