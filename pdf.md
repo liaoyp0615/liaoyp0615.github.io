@@ -4,7 +4,7 @@
 
 ------
 
-[**Notes for photographer**](files/Notes_for_photographer.pdf)
+[**Notes for photographer**](files/Notes for photographer.pdf)
 
 ------
 
