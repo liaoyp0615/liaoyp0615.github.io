@@ -6,9 +6,6 @@
 
 
 
-1. Physics analysis at [BESIII](http://bes3.ihep.ac.cn)
+1. Physics analysis and offline software updating at [BESIII](http://bes3.ihep.ac.cn)
 
-   
-
-2. CGEM detector digital software development using Machine Learning
-
+2. Physics analysis at [Belle2](https://www.belle2.org)
