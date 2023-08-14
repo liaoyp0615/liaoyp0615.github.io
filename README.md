@@ -14,8 +14,11 @@
 
 # Introduction
 ### Who am I
+
 2018-2021 <Bachelor> Department of Physics, Jilin University, Changchun.
+
 2021-2022 <Bachelor> Junior of TAQ Honor Program, Department of Physics, Jilin University, Changchun.
+
 2022-Now  <Ph.D Candidate> Experimental partical physics, Institute of High Energy Physics, Beijing.
 
 
