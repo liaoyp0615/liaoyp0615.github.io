@@ -14,9 +14,13 @@
 
 # Introduction
 ### Who am I
-Junior of TAQ Honor Program, Department of Physics, Jilin University.
+2018-2021 <Bachelor> Department of Physics, Jilin University, Changchun.
+2021-2022 <Bachelor> Junior of TAQ Honor Program, Department of Physics, Jilin University, Changchun.
+2022-Now  <Ph.D Candidate> Experimental partical physics, Institute of High Energy Physics, Beijing.
 
-[**CV(English)**](files/CV_of_YipuLIAO.pdf)  &emsp;  [**CV(Chinese)**](files/CV_Chinese.pdf)
+
+<!-- [**CV(English)**](files/CV_of_YipuLIAO.pdf)  &emsp;  [**CV(Chinese)**](files/CV_Chinese.pdf) -->
+
 
 ### Interests
 Particle Physics Experiment
